@@ -1,6 +1,6 @@
 # Mass-File-Renamer
-For automatically spreading your program on the internet.
-
+For automatically spreading your program on the filesharing sites that allow searching.  
+  
 #### Video Showcase:
 https://user-images.githubusercontent.com/127018596/227618624-293b8088-0c19-469c-bbad-09dd7f9a4231.mp4
 
